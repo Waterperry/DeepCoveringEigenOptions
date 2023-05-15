@@ -18,7 +18,11 @@ Requires:
 The code implementing the DCEO Algorithm is in DceoPolicy.py
 We provide some simple test environments in FourRooms.py (A classical FourRooms and NineRooms environment).
 HistoryHashTable contains code for a MutableHashTable (Tensorflow) for storing a history of state visitation.
-GenericOptionAgent provides code for using Options with Tf-Agents framework
+GenericOptionAgent provides code for using Options with Tf-Agents framework.
+
+**Side Note/Plagiarism Disclaimer**
+
+This code was submitted as part of a Master's Dissertation to the University of Bath (in case of plagiarism checking etc.).
 
 **Full Dependencies**
 
