@@ -4,6 +4,7 @@
 2. Simply clone this repository and run ``python3 ExampleUse.py'' to get started!
 
 **Dependencies**
+
 Requires: 
     - TF-Agents (0.16.0)
     - Pygame (2.1.0)
@@ -20,6 +21,7 @@ HistoryHashTable contains code for a MutableHashTable (Tensorflow) for storing a
 GenericOptionAgent provides code for using Options with Tf-Agents framework
 
 **Full Dependencies**
+
 The full list of pip-installed packages in the used conda environment is listed below:
     absl-py                 1.4.0
     astunparse              1.6.3
